@@ -14,8 +14,5 @@ Skills: Python / C++ / SQL / Machine Learning / Web
 - 💬 Ask me about the future   
 - 📫 How to reach me: Telegram: @Spaceship24   
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kolonin-Gleb)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kolonin-Gleb&show_icons=true)  
 
