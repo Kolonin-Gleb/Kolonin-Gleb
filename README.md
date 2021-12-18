@@ -8,7 +8,7 @@ I am interested in Programming, Physics and Investing.
 
 Skills: Python / C++ / SQL / Machine Learning / Web   
 
-- 🔭 I’m currently working on this page.   
+- 🔭 I’m currently studying in college.  
 - 🌱 I’m currently learning Machine Learning   
 - 👯 I’m looking to collaborate on Machine Learning projects   
 - 💬 Ask me about the future   
