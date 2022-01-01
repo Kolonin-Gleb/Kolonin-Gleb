@@ -9,8 +9,8 @@ I am interested in Programming, Physics and Investing.
 Skills: Python / C++ / SQL / Machine Learning / Web   
 
 - 🔭 I’m currently studying in college.  
-- 🌱 I’m currently learning Machine Learning   
-- 👯 I’m looking to collaborate on Machine Learning projects   
+- 🌱 I’m currently learning C#.   
+- 👯 I’m looking to collaborate on world changing projects!   
 - 💬 Ask me about the future   
 - 📫 How to reach me: Telegram: @Spaceship24   
 
