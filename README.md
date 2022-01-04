@@ -16,3 +16,8 @@ Skills: Python / C++ / SQL / Machine Learning / Web
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kolonin-Gleb&show_icons=true)  
 
+### 🔗 Links to reach me:
+
+ ​[![​github​](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Kolonin-Gleb) 
+ ​[![​telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Spaceship24)
+ 
